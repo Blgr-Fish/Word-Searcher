@@ -77,3 +77,5 @@ var_label.set("")       #Initialisation via méthode "set" (optionnel)
 
 
 jeu.mainloop() # le programme tourne non-stop
+
+bonjour
